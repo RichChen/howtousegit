@@ -1,2 +1,2 @@
 hello rich!hello git!//test
-hello whu!hello wuhan!
+hello whu!hello wuhan!//test
