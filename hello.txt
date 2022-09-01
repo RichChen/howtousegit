@@ -1,3 +1,4 @@
 hello rich!hello git!//test
 hello whu!hello wuhan!//test
 github have changed your code.
+ssh免密登录设置好啦！
